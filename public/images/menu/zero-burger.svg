@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <rect width="900" height="900" rx="80" fill="#0b0b0b"/>
+  <circle cx="450" cy="450" r="360" fill="#ed1c24" opacity=".16"/>
+  <ellipse cx="450" cy="685" rx="300" ry="52" fill="#000" opacity=".5"/>
+  <path d="M220 360c35-125 425-125 460 0 8 28-14 57-45 57H265c-31 0-53-29-45-57Z" fill="#d8873a"/>
+  <path d="M255 390c88 22 302 22 390 0" stroke="#f6bf71" stroke-width="26" stroke-linecap="round"/>
+  <g fill="#fff3cc">
+    <ellipse cx="344" cy="316" rx="18" ry="7" transform="rotate(18 344 316)"/>
+    <ellipse cx="453" cy="294" rx="18" ry="7" transform="rotate(-12 453 294)"/>
+    <ellipse cx="555" cy="326" rx="18" ry="7" transform="rotate(20 555 326)"/>
+  </g>
+  <path d="M250 425h400c33 0 60 27 60 60s-27 60-60 60H250c-33 0-60-27-60-60s27-60 60-60Z" fill="#53251d"/>
+  <path d="M210 525c70-36 120 35 190 0s125 35 195 0 80 16 95 30c-36 42-466 42-500 0 4-9 10-20 20-30Z" fill="#ffcf45"/>
+  <path d="M230 552h440c18 0 32 14 32 32s-14 32-32 32H230c-18 0-32-14-32-32s14-32 32-32Z" fill="#f4f0dc"/>
+  <path d="M240 610h420c25 0 45 20 45 45s-20 45-45 45H240c-25 0-45-20-45-45s20-45 45-45Z" fill="#d8873a"/>
+  <text x="450" y="150" text-anchor="middle" fill="#fff" font-family="Impact, Arial Black, sans-serif" font-size="72">ZERO</text>
+</svg>

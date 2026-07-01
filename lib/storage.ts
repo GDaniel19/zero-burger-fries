@@ -55,10 +55,10 @@ export async function saveProduct(product: Product) {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(product)
     });
-    if (!response.ok) {
-      const payload = await response.json().catch(() => ({}));
-      throw new Error(payload.error || 'No pudimos guardar el producto.');
-    }
+   if (!response.ok) {
+  const payload = await response.json().catch(() => ({}));
+  throw new Error(payload.error || 'No pudimos guardar el producto.');
+}
     window.localStorage.removeItem(MENU_CACHE_KEY);
   } catch (error) {
     if (!isLocalAdminSession()) throw error;

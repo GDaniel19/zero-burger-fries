@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <rect width="900" height="900" rx="80" fill="#101010"/>
+  <ellipse cx="450" cy="690" rx="300" ry="55" fill="#000" opacity=".55"/>
+  <path d="M210 495c0-90 76-164 170-164h140c94 0 170 74 170 164s-76 164-170 164H380c-94 0-170-74-170-164Z" fill="#d88942"/>
+  <path d="M260 500c0-58 50-105 112-105h156c62 0 112 47 112 105s-50 105-112 105H372c-62 0-112-47-112-105Z" fill="#9d3927"/>
+  <path d="M300 505c70-55 120 55 190 0s98 38 135 5" stroke="#f4d034" stroke-width="26" stroke-linecap="round" fill="none"/>
+  <path d="M300 548c75-45 135 35 205-10 58-37 95 17 130-5" stroke="#fff" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <g fill="#ed1c24"><circle cx="370" cy="450" r="20"/><circle cx="520" cy="555" r="18"/><circle cx="580" cy="465" r="15"/></g>
+  <text x="450" y="175" text-anchor="middle" fill="#fff" font-family="Impact, Arial Black, sans-serif" font-size="78">HOT DOG</text>
+</svg>

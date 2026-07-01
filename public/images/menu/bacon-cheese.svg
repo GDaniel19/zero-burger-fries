@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <rect width="900" height="900" rx="80" fill="#0c0c0c"/>
+  <circle cx="705" cy="170" r="90" fill="#ed1c24" opacity=".3"/>
+  <ellipse cx="450" cy="710" rx="310" ry="56" fill="#000" opacity=".6"/>
+  <path d="M225 348c48-118 402-118 450 0 13 33-13 69-49 69H274c-36 0-62-36-49-69Z" fill="#d98d43"/>
+  <path d="M260 420c90 40 210-42 310 5 50 24 80 22 105 7 20 45 10 75-25 90-100 45-278-30-385 25-28 14-62 1-75-28-15-34 15-77 70-99Z" fill="#c75a42"/>
+  <path d="M230 502h440c42 0 76 34 76 76s-34 76-76 76H230c-42 0-76-34-76-76s34-76 76-76Z" fill="#4c2018"/>
+  <path d="M190 620h520l-55 62H245z" fill="#ffcf45"/>
+  <path d="M240 670h420c27 0 49 22 49 49s-22 49-49 49H240c-27 0-49-22-49-49s22-49 49-49Z" fill="#d98d43"/>
+  <text x="450" y="160" text-anchor="middle" fill="#fff" font-family="Impact, Arial Black, sans-serif" font-size="64">BACON CHEESE</text>
+</svg>
